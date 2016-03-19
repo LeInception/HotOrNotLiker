@@ -7,7 +7,7 @@ How to use:
 
 2) On Chrome press F12 and go to the "console" tab.
 
-3) Copy and Paste the code from Script.js directly into the console. If you cant paste it press to the right of the >.
+3) Copy and Paste the code from hotornotautoliker.js directly into the console. If you cant paste it press to the right of the >.
 
 4) Press enter.
 
