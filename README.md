@@ -30,4 +30,3 @@ What's like_button[0]. It gets the first instance of the like button.
 
 How does it know what button to press? At the top of the code you can see the button's class is defined. We then use .click() to simulate a click.
 
-How long have you been programming. About 5 years, but i haven't done anything with JavaScript until now.
